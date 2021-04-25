@@ -2,7 +2,7 @@
 ## Notebook sur les équations de Lotka et Volterra décrivant les relations proies-prédateurs
 
 Vous pouvez :
-- **l'exécuter en ligne** avec Binder en cliquant ici 
+- **l'exécuter en ligne** avec Binder en cliquant sur cette icone
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alixHG/Lotka-Volterra/604220045f6ebe99771de041bcf4568cfae599f3?filepath=Lotka-Volterra-Alix.ipynb)
 C'est le moyen le plus sûr, car Binder chargera **toujours** les versions des librairies de python que j'ai utilisé, même dans plusieurs années.
 - le télécharger et l'exécuter sur votre machine avec un environnement de type Anaconda (avec Python 3 pas python 2 !)
